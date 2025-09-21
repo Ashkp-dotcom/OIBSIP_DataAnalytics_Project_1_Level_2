@@ -30,3 +30,7 @@ Overall, the project highlights the importance of **data cleaning, feature engin
 ## 🛠 Tools & Libraries
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Jupyter Notebook
+
+## 👤 Author
+Ashish Kumar Paswan  
+Oasis Infobyte Internship (Data Science Domain)
